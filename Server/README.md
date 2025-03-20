@@ -1,4 +1,4 @@
-# Backend for Mixup Recipe Sharing Site
+# Backend for A2Z-recipes Sharing Site
 
 This repository contains the backend code for the Mixup Recipe Sharing Site built using Node.js, Express, and MongoDB Atlas. It provides a RESTful API for managing user authentication and recipe data.
 
