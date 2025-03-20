@@ -1,6 +1,6 @@
-# Mixup-Final
+# A2Z-recipes
 
-Mixup-Final is a full-stack application with a **React frontend** and an **Express.js backend**. This README provides step-by-step instructions for local development, deployment on **Render**, and troubleshooting common issues.
+A2Z-recipes is a full-stack application with a **React frontend** and an **Express.js backend**. This README provides step-by-step instructions for local development, deployment on **Render**, and troubleshooting common issues.
 
 ---
 
@@ -21,7 +21,6 @@ Mixup-Final is a full-stack application with a **React frontend** and an **Expre
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ---
 
